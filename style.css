@@ -1,0 +1,234 @@
+/* default css */
+*{
+    margin: 0;
+    padding: 0;
+    /* font-family: 'Open Sans', sans-serif; */
+}
+.clearfix::after{
+    content: '';
+    display: block;
+    clear: both;
+}
+.text-center{
+    text-align: center;
+}
+.text-right{
+    text-align: right;
+}
+.text-left{
+    text-align: left;
+}
+.container{
+    width: 1260px;
+    margin: auto;
+}
+/* ------- main Css ------ */
+/* ------- Header Part ------ */
+.main-header{
+    background: #0dbf9b;
+}
+.header-left{
+    float: left;
+    width: 30%;
+}
+.header-right{
+    float: right;
+    width: 70%;
+}
+.header-left .logo h2 a{
+    line-height: 60px;
+    color: #eefffc;
+    text-decoration: none;
+}
+.header-right ul li{
+    display: inline-block;
+}
+.header-right ul li a {
+    display: block;
+    text-decoration: none;
+    color: #d6fff7;
+    padding: 0 10px;
+    line-height: 60px;
+    text-transform: uppercase;
+}
+/*-------- banner part--------- */
+.banner{
+    background: url(./img/header-bg01.jpg) no-repeat center center;
+    background-size: cover;
+    padding: 180px 0;
+}
+.banner-caption h1 {
+    font-size: 45px;
+    color: #fff;
+    margin-bottom: 18px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+}
+.banner-caption p {
+    color: #fff;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+.banner-caption a {
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid #fff;
+    padding: 14px 21px;
+    display: inline-block;
+    margin-top: 20px;
+    border-radius: 10px;
+    font-size: 17px;
+    text-transform: uppercase;
+}
+/* ------------- Service section ---------- */
+.service-section {
+    padding: 80px 80px;
+    border-bottom: 3px solid #0dbf9b;
+}
+.service-title{}
+.service-title h2 {
+    font-size: 34px;
+    margin-bottom: 10px;
+    font-weight: 600;
+    color: #555555;
+}
+.service-title p {
+    color: #787474;
+    margin-bottom: 60px;
+}
+
+.service-content {
+    float: left;
+    width: 24%;
+    margin-top: 30px;
+}
+.service-content span {
+    font-size: 25px;
+    color: #0dbf9b;
+    margin-bottom: 20px;
+    display: inline-block;
+}
+.service-content h3 {
+    font-size: 23px;
+    margin-bottom: 10px;
+    color: #666;
+}
+.service-content p {
+    padding: 0 40px;
+    color: #878787;
+}
+
+/* --------- About Us Css ------- */
+.about-section {
+    padding: 60px 0;
+}
+.about-section .about-title{}
+.about-section .about-title h2 {
+    font-size: 40px;
+    margin-bottom: 10px;
+    color: #555555;
+    font-weight: 600;
+}
+.about-section .about-title p {
+    font-size: 17px;
+    margin-bottom: 41px;
+}
+.about-left{
+    float: left;
+    width: 40%;
+}
+.about-right {
+    float: right;
+    width: 55%;
+    margin-top: 10px;
+}
+.a-image img{
+    width: 100%;
+}
+.about-content {
+    padding-right: 25px;
+}
+.about-content h3 {
+    font-size: 23px;
+    margin-bottom: 8px;
+    color: #666;
+}
+.about-content p {
+    font-size: 14px;
+    margin-bottom: 14px;
+    line-height: 20px;
+    padding-right: 17%;
+}
+
+/* ----------- Contact Us Css ------------  */
+.contact-us{
+    padding: 60px;
+    background: #f6f6f6;
+}
+.contact-width{
+    width: 1000px;
+    margin: auto;
+}
+.contact-title h2 {
+    font-size: 35px;
+    margin-bottom: 15px;
+    color: #555555;
+}
+.contact-title p {
+    margin-bottom: 50px;
+    color: #666;
+}
+.contact-box {
+    float: left;
+    width: 32%;
+    margin-top: 10px;
+}
+.contact-box span {
+    font-size: 19px;
+    color: #0dbf9b;
+    margin-bottom: 11px;
+    display: inline-block;
+}
+.contact-box h6 {
+    font-size: 16px;
+    color: #666;
+    line-height: 25px;
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+}
+/* ============social menu css ========= */
+.social-menu {
+    background: #0dbf9b;
+    padding: 40px 0;
+}
+.social-menu ul{
+
+}
+.social-menu ul li{
+    display:inline-block;
+}
+.social-menu ul li a {
+    display: block;
+    text-decoration: none;
+    color: #fff;
+    font-size: 28px;
+    padding: 0 15px;
+}
+.fotter {
+    background: #222;
+    padding: 17px 0;
+}
+.fotter h6 {
+    color: #9f9999;
+    font-size: 16px;
+}
+
+
+
+
+
+
+
+
+
+

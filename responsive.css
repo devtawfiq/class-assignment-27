@@ -1,0 +1,242 @@
+body{
+    overflow-X: hidden;
+}
+@media (max-width: 1220px) {
+    .container {
+        width: 100%;
+    }
+}
+@media (max-width: 1200px) {
+    .container {
+        width: 100%;
+    }
+}
+@media (max-width: 1060px) {
+    .service-section {
+        padding: 80px 0;
+    }
+    .contact-us {
+        padding: 60px 0;
+    }
+    .service-content p {
+        padding: 0 26px;
+    }
+    .header-right ul li a {
+        padding: 0 0;
+    }
+    .about-content {
+        padding-right: 0;
+    }
+    .service-content p {
+        padding: 0 10px;
+    }
+    .header-right ul li a {
+        padding: 0 16px;
+    }
+    .contact-width {
+        width: 800px;
+        margin: auto;
+    }
+    .contact-width {
+        width: 100%;
+        margin: auto;
+    }
+    .contact-title p {
+        width: 400px;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+}
+@media (max-width: 992px) {
+    .header-right ul li a {
+        padding: 0 13px;
+    }
+    .banner {
+        padding: 150px 0;
+    }
+}
+@media (max-width: 820px) {
+    .service-content h3 {
+        font-size: 18px;
+    }
+    .service-content p {
+        padding: 0 10px;
+        font-size: 12px;
+    }
+    .service-content {
+        margin-top: 13px;
+    }
+    .about-right {
+        margin-top: 0;
+    }
+    .about-content h3 {
+        font-size: 15px;
+        margin-bottom: 8px;
+        color: #666;
+    }
+    .about-content p {
+        font-size: 10px;
+        margin-bottom: 14px;
+        line-height: 20px;
+    }
+    .about-left {
+        width: 100%;
+    }
+    .a-image {
+        width: 100%;
+        text-align: center;
+    }
+    .a-image img {
+        width: 97%;
+    }
+    .about-right {
+        width: 100%;
+    }
+    .about-content {
+        width: 98%;
+        margin: auto;
+        margin-left: 12px;
+    }
+    .about-content h3 {
+        font-size: 18px;
+    }
+    .about-content p {
+        font-size: 13px;
+    }
+}
+@media (max-width: 772px) {
+    .header-right ul li a {
+        font-size: 12px;
+        padding: 0 12px;
+    }
+    .banner {
+        padding: 140px 0;
+    }
+}
+@media (max-width: 736px) {
+    .header-left .logo h2 a {
+        font-size: 23px;
+    }
+    .header-right ul li a {
+        font-size: 12px;
+        padding: 0 12px;
+    }
+    .contact-width {
+        width: 100%;
+        margin: auto;
+    }
+    .contact-title p {
+        width: 400px;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+    .banner {
+        padding: 130px 0;
+    }
+}
+@media (max-width: 662px) {
+    .header-left {
+        width: 100%;
+        text-align: center;
+    }
+    .header-right {
+        width: 100%;
+    }
+    .text-right {
+        text-align: center;
+    }
+    .banner {
+        padding: 120px 0;
+    }
+    .service-content p {
+        padding: 0 55px;
+        font-size: 12px;
+    }
+    .service-content {
+        width: 50%;
+        margin-top: 30px;
+    }
+    .a-image img {
+    width: 92%;
+    }
+}
+@media (max-width: 570px) {
+    .contact-box {
+        float: left;
+        width: 100%;
+        margin-top: 10px;
+    }
+    .about-content {
+        width: 92%;
+        margin: auto;
+    }
+}
+@media (max-width: 510px) {
+    .service-content {
+        width: 100%;
+        margin-top: 30px;
+    }
+    .about-content p {
+        padding-right: 0;
+    }
+    .about-content {
+        width: 90%;
+        margin-left: 19px;
+    }
+}
+
+@media (max-width: 440px) {
+    .header-right ul li a {
+        font-size: 11px;
+        padding: 0 11px;
+    }
+    .banner-caption p {
+        margin-bottom: 7px;
+        font-size: 14px;
+    }
+}
+@media (max-width: 410px) {
+    .contact-title p {
+        width: 100%;
+    }
+    .banner-caption p {
+        margin-bottom: 7px;
+        font-size: 14px;
+    }
+    .social-menu ul li a {
+        font-size: 18px;
+    }
+    .fotter h6 {
+        font-size: 11px;
+        color: #9f9999;
+    }
+}
+@media (max-width: 320px) {
+    .banner-caption p {
+        font-size: 10px;
+    }
+    .banner-caption h1 {
+        font-size: 30px;
+    }
+    .banner {
+        padding: 60px 0;
+    }
+    .social-menu ul li a {
+        font-size: 16px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
